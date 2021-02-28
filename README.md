@@ -114,6 +114,7 @@ The *pluto.ini* file particular to these simulations implements .vtk data files 
 As data are imported into VisIt, the software assigns variables to gridpoints in cartesian coordinates. __*As an important distinction, this conflicts with how we specify vector-valued functions in our init.c via a spherical coordinate system.*__ Thus, in order to properly visualize vector-valued variables such as velocity and magnetic fields, we must convert vector components from spherical to cartesian coordinates.
 * These coordinate transformations are described in the folder *"VisIt Config Files"* under the *"Vector_Correction_Expressions.xml"* file. The supplementing file *"Visit_Spherical_to_Cartesian_Conversion.txt"* provides additional background to this transformation process.
 
+------------------------------------------------------
 
 ### Archived Repository Version 2.0.1
 [![DOI](https://zenodo.org/badge/298370663.svg)](https://zenodo.org/badge/latestdoi/298370663)
