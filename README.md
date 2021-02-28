@@ -3,10 +3,12 @@ This repository provides files for modeling magnetar structure in PLUTO, an astr
 
 This fork is associated with our paper Modeling Magnetohydrodynamic Equilibrium in Magnetars with Applications to Continuous Gravitational Wave Production at https://arxiv.org/abs/2002.02619.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4569036.svg)](https://doi.org/10.5281/zenodo.4569036)
+
+### Archived Repository Version 2.0.1
 [![DOI](https://zenodo.org/badge/298370663.svg)](https://zenodo.org/badge/latestdoi/298370663)
 
-
-## Archived Repository Version 1.0.1
+### Archived Repository Version 1.0.1
 [![DOI](https://zenodo.org/badge/146366066.svg)](https://zenodo.org/badge/latestdoi/146366066)
 
 ## File Structure
